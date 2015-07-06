@@ -100,6 +100,3 @@ In order to complete this assignment, you must do the following:
 5.  Submit to Coursera the URL to your GitHub repository that contains
     the completed R code for the assignment.
 
-### Grading
-
-This assignment will be graded via peer assessment.
