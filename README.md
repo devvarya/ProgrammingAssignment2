@@ -77,8 +77,8 @@ invertible.
 
 Following were the steps taken in order to complete this assignment:
 
-1.  Fork the GitHub repository [https://github.com/rdpeng/ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2)
-    to create a copy under your own account.
+1.  Fork the GitHub repository [https://github.com/rdpeng/ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2)  
+to create a copy under your own account.
 2.  Clone your forked GitHub repository to your computer.
 3.  Edit the R file contained in the git repository and place your
     solution in that file.
